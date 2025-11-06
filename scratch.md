@@ -21,5 +21,5 @@ df <- data.frame()
 | Lorax | Seuss  |
 | Milk & Honey   | Kaur   |
 
-$ P\left(A,B\right) = A_i * B_j $
+$` P\left(A,B\right) = A_i * B_j `$
 
